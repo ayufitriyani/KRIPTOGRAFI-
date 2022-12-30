@@ -7,3 +7,7 @@ dengan TEXT  adalah : "Saya harus lulus tepat waktu dan menjadi sarjana"
 
 # PROSES CMD
 <img src="cmd.png" img>
+
+# HASIL ENKRIPSI
+<img src="hasil enkripsi.png" img>
+
